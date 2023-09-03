@@ -48,7 +48,7 @@ Next, we will make a new Security Group and assign appropriate permissions to th
 <br />
 
 <p>
-<img src="https://i.imgur.com/xev1Svv.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/st0Eqt4.png" height="80%" width="80%" alt="Permissions Steps"/>
 <img src="https://i.imgur.com/SHotVB2.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>

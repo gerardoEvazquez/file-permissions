@@ -39,7 +39,7 @@ On the client VM, navigate to the shared folders through the following path in F
 <br />
 
 <p>
-<img src="https://i.imgur.com/NgM0CcI.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/CgZsWd1.png" height="80%" width="80%" alt="Permissions Steps"/>
 <img src="https://i.imgur.com/I4k9T2J.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>

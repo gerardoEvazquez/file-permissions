@@ -31,7 +31,7 @@ Domain Admins have Read/Write access to the no-access folder.
 <br />
 
 <p>
-<img src="https://i.imgur.com/kWrpLFE.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/Qxmtw8y.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>
 On the client VM, navigate to the shared folders through the following path in File Explorer: \\dc-1. Notice how some folders cannot allow you to add files, but only view them. One does not allow access at all. This is because as a Domain User, permissions for the folder are tied to the respective Security Group and the folder's own set permissions for users within that Security Group.

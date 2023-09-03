@@ -19,7 +19,7 @@ This lab focuses on file permissions and shares in the context of an Active Dire
 <h2>File Permissions Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/bUjobDC.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/xLmM7KJ.png" height="80%" width="80%" alt="Permissions Steps"/>
 <img src="https://i.imgur.com/lz1DMos.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>

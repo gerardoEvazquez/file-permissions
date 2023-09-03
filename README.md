@@ -49,7 +49,7 @@ Next, we will make a new Security Group and assign appropriate permissions to th
 
 <p>
 <img src="https://i.imgur.com/st0Eqt4.png" height="80%" width="80%" alt="Permissions Steps"/>
-<img src="https://i.imgur.com/SHotVB2.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/kI1ejS1.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>
 The user cannot access the accounting folder because they are not part of the ACCOUNTANTS Security Group. Log off the client so that the permissions are in place by the time the client is logged into again. On the domain controller, open the ACCOUNTANTS Properties on Active Directory Users and Computers. In the Members tab, add the respective user. In my case, it is bon.rovej. Upon logging into the client, bon.rovej is now able to open the accounting folder because they are part of ACCOUNTANTS.

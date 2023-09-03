@@ -40,7 +40,7 @@ On the client VM, navigate to the shared folders through the following path in F
 
 <p>
 <img src="https://i.imgur.com/CgZsWd1.png" height="80%" width="80%" alt="Permissions Steps"/>
-<img src="https://i.imgur.com/I4k9T2J.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/Un2qiGd.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>
 Next, we will make a new Security Group and assign appropriate permissions to the accounting folder. On the domain controller, have the Active Directory Users and Computers panel open. Create a new Group called ACCOUNTANTS. After creating the new Group, go to the accounting folder and assign permissions to the folder so the ACCOUNTANTS Group has Read/Write permissions.

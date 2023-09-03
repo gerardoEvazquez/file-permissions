@@ -20,7 +20,7 @@ This lab focuses on file permissions and shares in the context of an Active Dire
 
 <p>
 <img src="https://i.imgur.com/xLmM7KJ.png" height="80%" width="80%" alt="Permissions Steps"/>
-<img src="https://i.imgur.com/lz1DMos.png" height="80%" width="80%" alt="Permissions Steps"/>
+<img src="https://i.imgur.com/IGx6UXI.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>
 In order to set permissions to folders and files, we need to create the folders to share. While logged in to the domain controller VM as an admin, create the folders. I have created 4 appropriately named folders to set permissions to on the C:\ drive. To share a folder and assign permissions, open the folder's Properties and click on Share under the Sharing tab. You can specify people on the network to share with and assign appropriate permissions. I set the following permissions for the folders (the accounting folder will be changed later):

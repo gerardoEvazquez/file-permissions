@@ -3,7 +3,7 @@
 </p>
 
 <h1>Understanding File Permissions</h1>
-This lab focuses on file permissions and shares in the context of an Active Directory domain. File permissions and shares are key in a business setting to make sure users have the appropriate permissions and access to files they need. This is building up from a previous lab where I have a client joined to my domain ernestotest.com. I am logged in as Jane Doe (an admin account) on the domain controller VM and as a normal user on the client VM. <br />
+This lab focuses on file permissions and shares in the context of an Active Directory domain. File permissions and shares are key in a business setting to make sure users have the appropriate permissions and access to files they need. This is building up from a previous lab where I have a client joined to my domain gerardotest.com. I am logged in as Jane Doe (an admin account) on the domain controller VM and as a normal user on the client VM. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -52,7 +52,7 @@ Next, we will make a new Security Group and assign appropriate permissions to th
 <img src="https://i.imgur.com/kI1ejS1.png" height="80%" width="80%" alt="Permissions Steps"/>
 </p>
 <p>
-The user cannot access the accounting folder because they are not part of the ACCOUNTANTS Security Group. Log off the client so that the permissions are in place by the time the client is logged into again. On the domain controller, open the ACCOUNTANTS Properties on Active Directory Users and Computers. In the Members tab, add the respective user. In my case, it is bon.rovej. Upon logging into the client, bon.rovej is now able to open the accounting folder because they are part of ACCOUNTANTS.
+The user cannot access the accounting folder because they are not part of the ACCOUNTANTS Security Group. Log off the client so that the permissions are in place by the time the client is logged into again. On the domain controller, open the ACCOUNTANTS Properties on Active Directory Users and Computers. In the Members tab, add the respective user. In my case, it is gid.rew. Upon logging into the client, gid.rew is now able to open the accounting folder because they are part of ACCOUNTANTS.
 <br />
 
 <h2>Lessons Learned </h2>
